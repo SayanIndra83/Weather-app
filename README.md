@@ -1,6 +1,6 @@
-# ochi design
+# Weather App design
 
-**A compact, motion-first clone of ochi.design** — rebuilt to explore scroll-driven interactions, parallax, and performance-friendly animation patterns using React, Tailwind CSS, Locomotive Scroll and framer motion. For learning and portfolio use only (not the official site).
+**A weather app created using HTML, CSS, JavaScript**
 
 ---
 
